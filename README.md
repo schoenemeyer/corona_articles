@@ -7,10 +7,10 @@ Will keep this updated daily
 
 ## 1. Course of the disease
 
-(1) March 16th: "a case report of non-severe COVID-19" https://www.nature.com/articles/s41591-020-0819-2.pdf        
+(1) March 16th: "a case report of non-severe COVID-19" https://www.nature.com/articles/s41591-020-0819-2.pdf            
 Summary: In many cases the immune system of patients seems to be well prepared for Corona Virus 
 
-(2) March 9th: "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study" https://www.thelancet.com/pb-assets/Lancet/pdfs/S014067362305663.pdf       
+(2) March 9th: "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study" https://www.thelancet.com/pb-assets/Lancet/pdfs/S014067362305663.pdf            
 Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 56 from Wuhan Pulmonary Hospital) were included in this study, of whom 137 were discharged and 54 died in hospital.
 
 (3) March 17th: NIH clinical trial of investigational vaccine for COVID-19 begins.   
@@ -18,8 +18,10 @@ Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed
 
 ## 2. Transmission Paths
 
-(1) March 17th: "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1" https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins            
-Summary: SARS-CoV-2 is detectable for a similar amount of time like under air and on surfaces like SARS-CoV-1 . Depending on the surfaces, half live can be up to 8 hours https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973?articleTools=true
+(1) March 17th: "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1"        
+https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins            
+Summary: SARS-CoV-2 is detectable for a similar amount of time like under air and on surfaces like SARS-CoV-1 . Depending on the surfaces, half live can be up to 8 hours     
+https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973?articleTools=true
 
 ## 3. Treatment
 
