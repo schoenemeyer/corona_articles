@@ -41,5 +41,8 @@ https://www.elsevier.com/connect/coronavirus-information-center?dgcid=_SD_banner
 Dashboard provided by Hamburger Morgenpost       
 https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
 
+Keep up with the latest coronavirus research      
+https://www.nature.com/articles/d41586-020-00694-1
+
 
 
