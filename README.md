@@ -31,7 +31,7 @@ Summary: Patients assigned to lopinavir–ritonavir did not show clinical improv
 (2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
 Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
 
-## 4. Origin
+## 4. Origin of Corona Virus
 
 (1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf
 Summary: Discussion on the origin of the causative virus, based on a comparative analysis of genomic data. Their analyses clearly shows that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
