@@ -14,6 +14,7 @@ Summary: In many cases the immune system of patients seems to be well prepared f
 Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 56 from Wuhan Pulmonary Hospital) were included in this study, of whom 137 were discharged and 54 died in hospital.
 
 (3) March 17th: NIH clinical trial of investigational vaccine for COVID-19 begins.   
+https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins
 Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273.
 
 ## 2. Transmission Paths
