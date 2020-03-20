@@ -1,6 +1,6 @@
 ## Live Repository of selected Corona Studies - updated daily
-March 20th 2020 
-Derived from the German "Deutsches Ärzteblatt"  https://www.aerzteblatt.de/
+Status: March 20th 2020 
+Collected from the German "Deutsches Ärzteblatt"  https://www.aerzteblatt.de/
 
 Food for thoughts .....
 Will keep this updated daily
