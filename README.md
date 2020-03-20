@@ -26,7 +26,7 @@ Summary: SARS-CoV-2 is detectable for a similar amount of time like under air an
 ## 3. Treatment
 
 (1) March 18th: "A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19" https://www.nejm.org/doi/full/10.1056/NEJMoa2001282        
-Summary: Patients assigned to lopinavir–ritonavir did not have a time to clinical improvement different from that of patients assigned to standard care alone in the intention-to-treat population
+Summary: Patients assigned to lopinavir–ritonavir did not show clinical improvement different from that of patients assigned to standard care alone in the intention-to-treat population
 
 (2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
 Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
