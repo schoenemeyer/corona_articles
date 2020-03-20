@@ -5,7 +5,7 @@ Derived from the German "Deutsches Ärzteblatt"  https://www.aerzteblatt.de/
 Food for thoughts .....
 Will keep this updated daily
 
-## Course of the disease
+## 1. Course of the disease
 
 (1) March 16th: "a case report of non-severe COVID-19" https://www.nature.com/articles/s41591-020-0819-2.pdf 
 Summary: In many cases the immune system of patients seems to be well prepared for Corona Virus 
