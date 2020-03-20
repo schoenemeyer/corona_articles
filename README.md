@@ -33,7 +33,7 @@ Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a h
 
 ## 4. Origin of Corona Virus
 
-(1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf
+(1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf      
 Summary: Discussion on the origin of the causative virus, based on a comparative analysis of genomic data. Their analyses clearly shows that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
 
 ## Live Updates
