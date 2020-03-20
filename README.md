@@ -2,7 +2,7 @@
 Status: March 20th 2020          
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/ , Berlin. Editor: Bundesärztekammer.
 
-Food for thoughts .....
+Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 
 ## 1. Course of the disease
