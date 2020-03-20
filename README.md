@@ -20,9 +20,8 @@ Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed
 ## 2. Transmission Paths
 
 (1) March 17th: "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1"        
-https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins            
+https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973?articleTools=true              
 Summary: SARS-CoV-2 is detectable for a similar amount of time like under air and on surfaces like SARS-CoV-1 . Depending on the surfaces, half live can be up to 8 hours     
-https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973?articleTools=true
 
 ## 3. Treatment
 
