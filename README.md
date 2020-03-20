@@ -1,5 +1,5 @@
 ## Live Repository of selected Corona Studies - updated daily
-Status: March 20th 2020 
+Status: March 20th 2020          
 Collected from the German "Deutsches Ärzteblatt"  https://www.aerzteblatt.de/
 
 Food for thoughts .....
