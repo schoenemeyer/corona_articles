@@ -13,7 +13,7 @@ Summary: In many cases the immune system of patients seems to be well prepared f
 (2) March 9th: "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study" https://www.thelancet.com/pb-assets/Lancet/pdfs/S014067362305663.pdf       
 Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 56 from Wuhan Pulmonary Hospital) were included in this study, of whom 137 were discharged and 54 died in hospital.
 
-(3) March 17th: NIH clinical trial of investigational vaccine for COVID-19 begins.   
+(3) March 17 th: NIH clinical trial of investigational vaccine for COVID-19 begins.   
 Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273.
 
 ## 2. Transmission Paths
@@ -31,7 +31,7 @@ Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a h
 
 ## 4. Origin
 
-(1) March17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf
+(1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf
 Summary: Discussion on the origin of the causative virus, based on a comparative analysis of genomic data. Their analyses clearly shows that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
 
 ## Live Updates
