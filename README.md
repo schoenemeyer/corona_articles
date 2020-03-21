@@ -1,5 +1,5 @@
 ## Live Repository of latest Corona Studies - updated daily
-Status: March 20th 2020          
+Status: March 21th 2020          
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/ , Berlin. Editor: Bundesärztekammer.
 
 Divided into four main areas and food for thoughts .....
