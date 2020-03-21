@@ -22,11 +22,14 @@ Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 
 https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins       
 Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273.
 
-## 2. Transmission Paths
+## 2. Spread and Transmission Paths
 
 (1) March 17th: "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1"        
 https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973?articleTools=true              
 Summary: SARS-CoV-2 is detectable for a similar amount of time like under air and on surfaces like SARS-CoV-1 . Depending on the surfaces, half live can be up to 8 hours     
+
+(2) March 17th: "A serological assay to detect SARS-CoV-2 seroconversion in humans"     https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1     
+Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth rate of CV patients, because the current PCR only shows active infections. 
 
 ## 3. Treatment
 
@@ -35,6 +38,8 @@ Summary: Patients assigned to lopinavir–ritonavir did not show clinical improv
 
 (2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
 Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
+
+
 
 ## 4. Origin of Corona Virus
 
