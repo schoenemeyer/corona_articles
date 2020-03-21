@@ -45,13 +45,13 @@ Summary: Discussion on the origin of the causative virus, based on a comparative
 Follow the latest news at the Elsevier Corona Virus Information Center      
 https://www.elsevier.com/connect/coronavirus-information-center?dgcid=_SD_banner#research
 
-Dashboard provided by Hamburger Morgenpost       
-https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/     
+Dashboard provided by Berliner Morgenpost       
+https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ 
+<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/dash-berliner.PNG" width="580"> <img>
 
 Dashboard provided by Robert-Koch-Institut     
-<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/rki-dash.PNG" width="580"> <img>
-
 https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4
+<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/rki-dash.PNG" width="580"> <img>
 
 Keep up with the latest coronavirus research on Nature     
 https://www.nature.com/articles/d41586-020-00694-1
