@@ -6,7 +6,7 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
-https://leoss.net/
+https://www.dzif.de/en/covid-19-set-european-registry-coronavirus-patients
 
 
 
