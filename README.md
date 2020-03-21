@@ -58,6 +58,9 @@ Dashboard provided by Robert-Koch-Institut
 https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/rki-dash.PNG" width="580"> <img>
 
+Dashboard Der Standard Österreich             
+https://www.derstandard.at/story/2000115810293/aktuelle-zahlen-zum-coronavirus
+
 Keep up with the latest coronavirus research on Nature     
 https://www.nature.com/articles/d41586-020-00694-1
 
