@@ -46,8 +46,9 @@ Follow the latest news at the Elsevier Corona Virus Information Center
 https://www.elsevier.com/connect/coronavirus-information-center?dgcid=_SD_banner#research
 
 Dashboard provided by Hamburger Morgenpost       
-https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
-Dashboard provided by Robert-KOch-Institut      
+https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/     
+
+Dashboard provided by Robert-Koch-Institut      
 https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4
 
 Keep up with the latest coronavirus research on Nature     
