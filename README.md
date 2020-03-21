@@ -5,6 +5,10 @@ Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/ , Berlin. Ed
 Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 
+Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
+https://www.dzif.de/en/covid-19-set-european-registry-coronavirus-patients
+
+
 ## 1. Course of the disease
 
 (1) March 16th: "a case report of non-severe COVID-19" https://www.nature.com/articles/s41591-020-0819-2.pdf            
