@@ -108,5 +108,5 @@ http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKN
 
 (2) Using Kalman Filter to Predict Corona Virus Spread,  
 https://towardsdatascience.com/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
-Summary: This article presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region
+Summary: This article presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region. Code is available in github  https://github.com/Rank23/COVID19
 
