@@ -38,6 +38,8 @@ Summary: SARS-CoV-2 is detectable for a similar amount of time like under air an
 Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth rate of CV patients, because the current PCR only shows active infections. 
 
 ## 3. Treatment
+Live collection     
+https://clinicaltrials.gov/ct2/results?cond=corona&term=&cntry=&state=&city=&dist=
 
 (1) March 18th: "A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19" https://www.nejm.org/doi/full/10.1056/NEJMoa2001282        
 Summary: Patients assigned to lopinavir–ritonavir did not show clinical improvement different from that of patients assigned to standard care alone in the intention-to-treat population
@@ -45,7 +47,7 @@ Summary: Patients assigned to lopinavir–ritonavir did not show clinical improv
 (2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
 Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
 
-(3) March : "COVID-19 Drug Therapy – Potential Options",  https://www.elsevier.com/__data/assets/pdf_file/0007/988648/COVID-19-Drug-Therapy_Mar-2020.pdf     
+(3) March: "COVID-19 Drug Therapy – Potential Options",  https://www.elsevier.com/__data/assets/pdf_file/0007/988648/COVID-19-Drug-Therapy_Mar-2020.pdf     
 Summary: in absence of an established treatment regimen,(CPAM) issued a novel 2019 coronavirus
 disease (COVID-19) guideline in February 2020 with recommendations
 
