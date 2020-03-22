@@ -43,7 +43,7 @@ Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth ra
 
 | Planned Studies | Are           | Cool  |
 | --------------- |:-------------:| -----:|
-| col 3 is        | right-aligned | $1600 |
+|         5       | right-aligned | $1600 |
 | col 2 is        | centered      |   $12 |
 | zebra stripes   | are neat      |    $1 |
 
