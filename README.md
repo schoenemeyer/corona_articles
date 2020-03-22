@@ -93,7 +93,7 @@ https://www.nature.com/articles/d41586-020-00694-1
 
 ## Simulators
 
-http://gabgoh.github.io/ Epidemic Calculator    
+Gabriel Goh:  Epidemic Calculator        
 http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKNHuvhK9dWWpWDy-2bD9RA2-jjzfppw
 
 
