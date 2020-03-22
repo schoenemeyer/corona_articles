@@ -6,9 +6,11 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 ## Germany Status 
 
-| Confirmed Cases  |  Healed   | Confirmed Deaths     |
-| :--------------:|:-------------:| :---------:|
-|     22417       | 239           | 84   |
+| Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |
+| :--------------:|:-------------:| :-------------:| :---------:|
+|     22417       |  22           |  239           | 84       |
+
+
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
