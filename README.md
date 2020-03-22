@@ -100,9 +100,13 @@ https://www.nature.com/articles/d41586-020-00694-1
 
 ## Simulators
 
-Gabriel Goh created an interactive epidemic calculator; it gives an excellent idea why transmission rate need to be reduced to a minimum 
+(1) Gabriel Goh created an interactive epidemic calculator; it gives an excellent idea why transmission rate need to be reduced to a minimum 
 Even under optimistic eestimations, we will have at least more than 50.000 infections beginning of April. The number of infected persons will stay above 30.000 through whole 2020.     
 http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKNHuvhK9dWWpWDy-2bD9RA2-jjzfppw
 
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/epidemic-calc.JPG" width="780"> <img>
+
+(2) Using Kalman Filter to Predict Corona Virus Spread,  
+https://towardsdatascience.com/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
+Summary: This article presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region
 
