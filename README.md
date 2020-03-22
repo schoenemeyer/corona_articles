@@ -93,8 +93,8 @@ https://www.nature.com/articles/d41586-020-00694-1
 
 ## Simulators
 
-Gabriel Goh:  Epidemic Calculator   gives an excellent idea why transmission rate need to be reduced to a minimum 
-Even under optimistic eestimations, we will have at least more than 50.000 infections beginning of April. The number of infected persons will stay above 30.000 through whole 2020.
+Gabriel Goh created an interactive epidemic calculator; it gives an excellent idea why transmission rate need to be reduced to a minimum 
+Even under optimistic eestimations, we will have at least more than 50.000 infections beginning of April. The number of infected persons will stay above 30.000 through whole 2020.     
 http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKNHuvhK9dWWpWDy-2bD9RA2-jjzfppw
 
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/epidemic-calc.JPG" width="780"> <img>
