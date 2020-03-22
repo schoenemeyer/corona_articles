@@ -6,9 +6,10 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 ## Germany Status 
 
-| Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |
-| :--------------:|:-------------:| :-------------:| :---------:|
-|     22417       |  12.6         |  239           | 84       |
+| Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |
+| :--------------:|:--------------:|:-------------:| :-------------:| :---------:|
+| Germany |    22417       |  12.6         |  239           | 84       |
+| Bavaria |    3695       |  18.9         |    15         | 21       |
 
 
 
