@@ -1,10 +1,14 @@
 ## Live Repository of latest Corona Studies - updated daily
-Status: March 22th 2020          
+### Status: March 22th 2020          
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/ , Berlin. Editor: Bundesärztekammer.
 
 Divided into four main areas and food for thoughts .....
-Will keep this updated daily   
+Will keep this updated daily
+## Germany Status 
 
+| Confirmed Cases  |  Healed   | Confirmed Deaths     |
+| :--------------:|:-------------:| :---------:|
+|     22417       | 239           | 84   |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
@@ -39,13 +43,13 @@ Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth ra
 
 ## 3. Treatment
 ## NIH  collection of clinical trials   
-## Status new 
+## Status March 22 2020 
 
 | Planned Studies |  Recruiting   | Est. Completion not before      |
 | :--------------:|:-------------:| :---------:|
 |         3       | yes           | Dec 2020   |
 | 2               | not yet       | Dec 2020   |
-| 12              | completed     | March 2020 |
+| 12              | completed     |            |
 
 https://clinicaltrials.gov/ct2/results?cond=corona&term=&cntry=&state=&city=&dist=
 
