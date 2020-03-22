@@ -1,17 +1,16 @@
 ## Live Repository of latest Corona Studies - updated daily
-### Status: March 22th 2020          
+   
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
 Editor: Bundesärztekammer.
 
 Divided into four main areas and food for thoughts .....
-Will keep this updated daily
-## Germany Status 
+Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
 | Germany |    22417       |  12.6         |  239           | 84       | Berliner Morgenpost |
 | Bavaria |    3695       |  18.9         |    15         | 21       |  RKI |
-
+### Status: March 22th 2020   11:00 CET 
 
 
 ## Donate your DL experience 
