@@ -8,7 +8,7 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    22417       |  12.6         |  239           | 84       | Berliner Morgenpost |
+| Germany |    23129       |  12.6         |  239           | 84       | Berliner Morgenpost |
 | Bavaria |    3695       |  18.9         |    15         | 21       |  RKI |
 ### Status: March 22th 2020   11:00 CET 
 
@@ -89,6 +89,12 @@ https://www.derstandard.at/story/2000115810293/aktuelle-zahlen-zum-coronavirus
 
 Keep up with the latest coronavirus research on Nature     
 https://www.nature.com/articles/d41586-020-00694-1
+
+
+## Simulators
+
+http://gabgoh.github.io/ Epidemic Calculator    
+http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKNHuvhK9dWWpWDy-2bD9RA2-jjzfppw
 
 
 
