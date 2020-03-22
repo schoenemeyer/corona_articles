@@ -1,5 +1,5 @@
 ## Live Repository of latest Corona Studies - updated daily
-Status: March 21th 2020          
+Status: March 22th 2020          
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/ , Berlin. Editor: Bundesärztekammer.
 
 Divided into four main areas and food for thoughts .....
@@ -39,6 +39,9 @@ Summary: Patients assigned to lopinavir–ritonavir did not show clinical improv
 (2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
 Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
 
+(3) March : "COVID-19 Drug Therapy – Potential Options",  https://www.elsevier.com/__data/assets/pdf_file/0007/988648/COVID-19-Drug-Therapy_Mar-2020.pdf     
+Summary: of an established treatment regimen,(CPAM) issued a novel 2019 coronavirus
+disease (COVID-19) guideline in February 2020 with recommendations
 
 
 ## 4. Origin of Corona Virus
