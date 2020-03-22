@@ -71,6 +71,7 @@ disease (COVID-19) guideline in February 2020 with recommendations
 (1) March 14: "Announcing CHIME, A tool for COVID-19 capacity planning"    
 http://predictivehealthcare.pennmedicine.org/2020/03/14/accouncing-chime.html      
 Summary: Informed estimates of how many patients will need hospitalization, ICU beds, and mechanical ventilation over the coming days and weeks will be crucial inputs to readiness responses and mitigation strategies.
+### Go directly to the calculator  https://penn-chime.phl.io/
 
 ## 5. Origin of Corona Virus
 
