@@ -38,7 +38,7 @@ Summary: SARS-CoV-2 is detectable for a similar amount of time like under air an
 Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth rate of CV patients, because the current PCR only shows active infections. 
 
 ## 3. Treatment
-Live collection     
+NIH  collection of clinical trials           
 https://clinicaltrials.gov/ct2/results?cond=corona&term=&cntry=&state=&city=&dist=
 
 (1) March 18th: "A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19" https://www.nejm.org/doi/full/10.1056/NEJMoa2001282        
