@@ -41,9 +41,9 @@ Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth ra
 ## NIH  collection of clinical trials   
 ## Status new 
 
-| Planned Studies | Are           | Cool  |
-| --------------- |:-------------:| -----:|
-|         5       | right-aligned | $1600 |
+| Planned Studies | Are           | End      |
+| :--------------:|:-------------:| --------:|
+|         5       | right-aligned | Dec 2020 |
 | col 2 is        | centered      |   $12 |
 | zebra stripes   | are neat      |    $1 |
 
