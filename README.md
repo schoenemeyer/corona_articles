@@ -8,7 +8,7 @@ Will keep this updated daily
 
 | Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |
 | :--------------:|:-------------:| :-------------:| :---------:|
-|     22417       |  22           |  239           | 84       |
+|     22417       |  12.6         |  239           | 84       |
 
 
 
