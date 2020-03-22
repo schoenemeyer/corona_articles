@@ -10,7 +10,7 @@ Will keep this updated hourly
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
 | Germany |    23129       |  12.6         |  239           | 84       | Berliner Morgenpost |
 | Bavaria |    3695       |  18.9         |    15         | 21       |  RKI |
-### Status: March 22th 2020   11:00 CET 
+### Status: March 22th 2020   12:00 CET 
 
 
 ## Donate your DL experience 
