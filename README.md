@@ -93,8 +93,8 @@ https://www.nature.com/articles/d41586-020-00694-1
 
 ## Simulators
 
-Gabriel Goh:  Epidemic Calculator        
+Gabriel Goh:  Epidemic Calculator   gives an excellent idea why transmission rate need to be reduced to a minimum     
 http://gabgoh.github.io/COVID/index.html?fbclid=IwAR2bJ379biqlvU_hJCViAt8YqSWCKNHuvhK9dWWpWDy-2bD9RA2-jjzfppw
 
-
+<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/epidemic-calc.JPG" width="580"> <img>
 
