@@ -8,6 +8,10 @@ Will keep this updated daily
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
 https://www.dzif.de/en/covid-19-set-european-registry-coronavirus-patients
 
+## News from March 22
+new diagnostic test from Cepheid for the novel coronavirus will return results in just 45 minutes  
+https://www.statnews.com/2020/03/21/coronavirus-test-returns-results-in-45-minutes/
+
 
 
 ## 1. Course of the disease
