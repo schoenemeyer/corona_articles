@@ -66,8 +66,13 @@ Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a h
 Summary: in absence of an established treatment regimen,(CPAM) issued a novel 2019 coronavirus
 disease (COVID-19) guideline in February 2020 with recommendations
 
+## 4. Hospital Capacity Planning
 
-## 4. Origin of Corona Virus
+(1) March 14: "Announcing CHIME, A tool for COVID-19 capacity planning"    
+http://predictivehealthcare.pennmedicine.org/2020/03/14/accouncing-chime.html      
+Summary: Informed estimates of how many patients will need hospitalization, ICU beds, and mechanical ventilation over the coming days and weeks will be crucial inputs to readiness responses and mitigation strategies.
+
+## 5. Origin of Corona Virus
 
 (1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf      
 Summary: Discussion on the origin of the causative virus, based on a comparative analysis of genomic data. Their analyses clearly shows that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
