@@ -21,6 +21,9 @@ https://www.dzif.de/en/covid-19-set-european-registry-coronavirus-patients
 new diagnostic test from Cepheid for the novel coronavirus will return results in just 45 minutes  
 https://www.statnews.com/2020/03/21/coronavirus-test-returns-results-in-45-minutes/
 
+## Study from 2013 (written in German) "Bericht zur Risikoanalyse im Bevölkerungsschutz 2012"
+The current situation was well described 8 years ago.
+http://dipbt.bundestag.de/doc/btd/17/120/1712051.pdf?mktcid=nled&mktcval=123_2020-03-19&kid=_2020-3-19&trco=
 
 
 ## 1. Course of the disease
