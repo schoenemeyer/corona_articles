@@ -8,8 +8,9 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    27558       |  8.3         |  422           | 115      | Berliner Morgenpost |
-| Bavaria |    5719       |  20.6         |    21         | 27       |  RKI |
+| Germany |    27558       | 13.7         |  422           | 115      | Berliner Morgenpost |
+| Bavaria |    5719       |  28.3         |    21         | 27       |  RKI |
+
 ### Status: March 23th 2020   17:00 CET 
 
 
