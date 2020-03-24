@@ -6,8 +6,6 @@ Editor: Bundesärztekammer.
 https://www.divi.de/register/intensivregister
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
-![Logo](/images/logo.png)
-
 
 Divided into four main areas and food for thoughts .....
 Will keep this updated hourly
