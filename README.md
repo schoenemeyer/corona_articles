@@ -1,9 +1,12 @@
-## Live Repository of latest Corona Studies - updated daily
+## Live Repository of latest Corona Studies - updated daily - March 24th - 07:00
    
 Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
 Editor: Bundesärztekammer.
 ## Live Status of ICU capacity in Germany 
 https://www.divi.de/register/intensivregister
+<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="780"> <img>
+
+![GitHub Logo](/images/logo.png)
 
 
 Divided into four main areas and food for thoughts .....
