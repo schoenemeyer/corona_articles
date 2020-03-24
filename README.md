@@ -4,9 +4,9 @@ Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin.
 Editor: Bundesärztekammer.
 ## Live Status of ICU capacity in Germany 
 https://www.divi.de/register/intensivregister
-<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="780"> <img>
+<img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
-![GitHub Logo](/images/logo.png)
+![Logo](/images/logo.png)
 
 
 Divided into four main areas and food for thoughts .....
