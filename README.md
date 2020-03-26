@@ -12,10 +12,10 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    31991       | 16.1         |  761           | 148      | Berliner Morgenpost |
-| Bavaria |    6362       |  10.6         |    21         | 31       |  RKI |
+| Germany |    37323       | 13.1         |  761           | 206      | Berliner Morgenpost |
+| Bavaria |    7289       |  14.5         |    21         | 41       |  RKI |
 
-### Status: March 24th 2020   18:00 CET 
+### Status: March 26th 2020   07:00 CET 
 
 
 ## Donate your DL experience 
