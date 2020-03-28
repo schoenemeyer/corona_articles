@@ -1,8 +1,8 @@
-## Live Repository of latest Corona Studies - updated daily - March 24th - 18:00
-   
-Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
+## Live Repository of latest Corona Studies - updated daily - March 248th - 08:00
+
+   Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
 Editor: Bundesärztekammer.
-## Live Status of ICU capacity in Germany - 600 ICUs are registered
+## Live Status of ICU capacity in Germany - >600 ICUs are registered
 https://www.divi.de/register/intensivregister
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
@@ -12,10 +12,10 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    37323       | 13.1         |  761           | 206      | Berliner Morgenpost |
-| Bavaria |    7289       |  14.5         |    21         | 41       |  RKI |
+| Germany |    49039       | 13.4        |  761           | 206      | Berliner Morgenpost |
+| Bavaria |    7289       |  15.1         |    21         | 323       |  RKI |
 
-### Status: March 26th 2020   07:00 CET 
+### Status: March 28th 2020   07:00 CET 
 
 
 ## Donate your DL experience 
