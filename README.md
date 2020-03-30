@@ -16,7 +16,7 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    62435       | 13.5        |  10534           | 541      | Berliner Morgenpost |
+| Germany |    62435       | 13.5        |  10534           | 541      | Berliner Morgenpost (Johns Hopkins U.) |
 | Bavaria |    13989      |  15.1         |    637       | 127      |  RKI |
 
 ### Status: March 30th 2020   12:00 CET 
