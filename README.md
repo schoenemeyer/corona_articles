@@ -6,7 +6,7 @@ http://www.91-divoc.com/pages/covid-visualization/
 
    Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
 Editor: Bundesärztekammer.
-## Live Status of ICU capacity in Germany - >600 ICUs are registered
+## Live Status of ICU capacity in Germany - >600 ICUs are registered        
 https://www.divi.de/register/intensivregister
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
