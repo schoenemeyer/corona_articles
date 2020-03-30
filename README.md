@@ -1,5 +1,9 @@
 ## Live Repository of latest Corona Studies - updated daily - March 28th - 15:00
 
+Current growth rate:     
+http://www.91-divoc.com/pages/covid-visualization/
+
+
    Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
 Editor: Bundesärztekammer.
 ## Live Status of ICU capacity in Germany - >600 ICUs are registered
@@ -12,10 +16,10 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    52747       | 13.5        |  8472           | 378      | Berliner Morgenpost |
-| Bavaria |    11862       |  15.1         |    276        | 85       |  RKI |
+| Germany |    58655       | 13.5        |  9291           | 456      | Berliner Morgenpost |
+| Bavaria |    13263       |  15.1         |    332        | 110       |  RKI |
 
-### Status: March 28th 2020   15:00 CET 
+### Status: March 30th 2020   05:00 CET 
 
 
 ## Donate your DL experience 
