@@ -1,6 +1,6 @@
 ## Live Repository of latest Corona Studies - updated daily - March 30th - 12:00
 
-Current growth rate:     
+Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/johns-hopkins-growth.PNG" width="580"> <img>
 
