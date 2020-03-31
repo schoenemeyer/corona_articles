@@ -3,9 +3,7 @@
 Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/johns-hopkins-growth.PNG" width="580"> <img>
-
-   Collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
-Editor: Bundesärztekammer.
+  
 ## Live Status of ICU capacity in Germany - >600 ICUs are registered        
 https://www.divi.de/register/intensivregister        
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
@@ -30,6 +28,8 @@ https://www.dzif.de/en/covid-19-set-european-registry-coronavirus-patients
 The current situation was well described 8 years ago.    
 http://dipbt.bundestag.de/doc/btd/17/120/1712051.pdf?mktcid=nled&mktcval=123_2020-03-19&kid=_2020-3-19&trco=
 
+News collected from  "Deutsches Ärzteblatt" https://www.aerzteblatt.de/  Berlin. 
+Editor: Bundesärztekammer.
 ## 1. Course of the disease
 
 (1) March 16th: "a case report of non-severe COVID-19" https://www.nature.com/articles/s41591-020-0819-2.pdf            
