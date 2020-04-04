@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - April 3rd - 13:00 CEST
+## Live Repository of latest Corona Studies - updated daily - April 4th - 17:00 CEST
 
 Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
@@ -14,10 +14,10 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    84.794      | 9.0        |  23.745          | 1107    | Berliner Morgenpost (Johns Hopkins U.) |
-| Bavaria |    20.237      |  11.7         |    2.910	      | 307     |  RKI |
+| Germany |    92050      | 8.5        |  26007          | 1295    | Berliner Morgenpost (Johns Hopkins U.) |
+| Bavaria |    23094      |  9.4         |    4540	      | 370     |  RKI |
 
-### Status: April 3rd - 13:00 CEST
+### Status: April 4th - 17:00 CEST
 
 
 
