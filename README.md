@@ -14,8 +14,8 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |    101.178      | 4.6        |  35.855         | 1.612    | Berliner Morgenpost (Johns Hopkins U.) |
-| Bavaria |    25.355     |  5.6         |    5.810	      | 444    |  RKI |
+| Germany |    101.178      | 4.6%        |  35.855         | 1.612    | Berliner Morgenpost (Johns Hopkins U.) |
+| Bavaria |    25.355     |  5.6%         |    5.810	      | 444    |  RKI |
 
 ### Status: April 6th - 19:00 CEST
 
