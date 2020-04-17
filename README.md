@@ -4,7 +4,7 @@ Current growth rate:
 http://www.91-divoc.com/pages/covid-visualization/
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/johns-hopkins-growth.PNG" width="580"> <img>
   
-## Live Status of ICU capacity in Germany - >600 ICUs are registered        
+## Live Status of ICU capacity in Germany - >1000 ICUs are registered        
 https://www.intensivregister.de/#/intensivregister      
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
