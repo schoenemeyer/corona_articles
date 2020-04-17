@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - April 14th - 19:00 CEST
+## Live Repository of latest Corona Studies - updated daily - April 17th - 19:00 CEST
 
 Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
@@ -12,11 +12,11 @@ https://www.intensivregister.de/#/intensivregister
 Divided into four main areas and food for thoughts .....
 Will keep this updated hourly
 
-| Region  |  Confirmed Cases  |  Daily Growth | Healed   | Confirmed Deaths     |  Source | 
+| Region  |  Confirmed Cases  |  Doubling Time | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |   131.100      | 2.6%        |  66.979        | 3.261   | Berliner Morgenpost (Johns Hopkins U.) |
-| Bavaria |    	33.913	     |  3.2%         |    13.620		      | 872   |  Berliner Morgenpost (Johns Hopkins U.) |
-### Status: April 14th - 19:00 CEST
+| Germany |   138.497      | 29d        |  82.664        | 4.193   | Berliner Morgenpost (Johns Hopkins U.) |
+| Bavaria |    	36.520	     |           |    		      |  |  Berliner Morgenpost (Johns Hopkins U.) |
+### Status: April 17th - 19:00 CEST
 
 
 
