@@ -15,7 +15,7 @@ Will keep this updated hourly
 | Region  |  Confirmed Cases  |  Doubling Time | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
 | Germany |   138.497      | 29d        |  82.664        | 4.193   | Johns Hopkins U. |
-| Bavaria |    	36.520	     |           |    19.610     | 1.164 |   Johns Hopkins U. |
+| Bavaria |    	36.520	     |   25d        |    19.610     | 1.164 |   Johns Hopkins U. |
 ### Status: April 17th - 19:00 CEST
 
 
