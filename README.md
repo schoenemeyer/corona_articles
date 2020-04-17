@@ -14,8 +14,8 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Doubling Time | Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
-| Germany |   138.497      | 29d        |  82.664        | 4.193   | Berliner Morgenpost (Johns Hopkins U.) |
-| Bavaria |    	36.520	     |           |    		      |  |  Berliner Morgenpost (Johns Hopkins U.) |
+| Germany |   138.497      | 29d        |  82.664        | 4.193   | Johns Hopkins U. |
+| Bavaria |    	36.520	     |           |    		      |  |   Johns Hopkins U. |
 ### Status: April 17th - 19:00 CEST
 
 
