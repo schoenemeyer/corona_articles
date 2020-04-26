@@ -12,8 +12,8 @@ https://www.intensivregister.de/#/intensivregister
 Divided into four main areas and food for thoughts .....
 Will keep this updated hourly
 
-| Region  |  Confirmed Cases  |  Doubling Time | Healed   | Confirmed Deaths     |  Source | 
-| :--------------:|:--------------:|:-------------:| :-------------:| :---------:| :---------:|
+| Region  |  Confirmed Cases  |  Healed   | Confirmed Deaths     |  Source | 
+| :--------------:|:--------------:|:-------------:| :---------:| :---------:|
 | Germany |   157.120      |   112.000        | 5.896   | Johns Hopkins U. |
 | Bavaria |    		41.295	     |      28.300		    | 1.613	 |   Johns Hopkins U. |
 ### Status: April 26th - 20:00 CEST
