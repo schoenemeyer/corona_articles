@@ -42,7 +42,7 @@ Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 
 https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins       
 Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273.
 
-First Covid-19 case happened in November, China government records show - report   
+(4) March 13: First Covid-19 case happened in November, China government records show - report   
 https://www.theguardian.com/world/2020/mar/13/first-covid-19-case-happened-in-november-china-government-records-show-report
 
 ## 2. Spread and Transmission Paths
