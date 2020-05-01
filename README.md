@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - April 28th - 18:00 CEST
+## Live Repository of latest Corona Studies - updated daily - May 1st - 17:00 CEST
 
 Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
@@ -14,9 +14,9 @@ Will keep this updated hourly
 
 | Region  |  Confirmed Cases  |  Healed   | Confirmed Deaths     |  Source | 
 | :--------------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |   158.768      |   117.400        | 6.136   | Johns Hopkins U. |
-| Bavaria |    		41.804		     |      29.580			    | 1.708	 |   Johns Hopkins U. |
-### Status: April 28th - 18:00 CEST
+| Germany |   163.162     |   126.900        | 6.632   | Johns Hopkins U. |
+| Bavaria |    		42.916		     |      32.580			    | 1.886	 |   Johns Hopkins U. |
+### Status: May 1st - 17:00 CEST
 
 
 
@@ -41,6 +41,9 @@ Summary: Cohort Study from Wuhan. 191 patients (135 from Jinyintan Hospital and 
 (3) March 17th: NIH clinical trial of investigational vaccine for COVID-19 begins.   
 https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins       
 Summary: A Phase 1 clinical trial evaluating an investigational vaccine designed to protect against coronavirus disease 2019 (COVID-19) has begun at Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle. Scientists at NIAID’s Vaccine Research Center (VRC) and Moderna were able to quickly develop mRNA-1273.
+
+First Covid-19 case happened in November, China government records show - report   
+https://www.theguardian.com/world/2020/mar/13/first-covid-19-case-happened-in-november-china-government-records-show-report
 
 ## 2. Spread and Transmission Paths
 
