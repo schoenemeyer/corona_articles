@@ -8,13 +8,14 @@ http://www.91-divoc.com/pages/covid-visualization/
 https://www.intensivregister.de/#/intensivregister      
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
-
 Divided into four main areas and food for thoughts .....
 Will keep this updated daily
+
+
 ## Status: May 17th - 18:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |   176.369     |   154.011        | 7.958  | Johns Hopkins U. |
+| Germany |   176.369     |   154.011     | 7.958  | Johns Hopkins U. |
 | Bavaria |    	45.777	    |      40.060	    | 2.297 |   Johns Hopkins U. |
 
 
