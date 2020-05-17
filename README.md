@@ -13,7 +13,7 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 ## Status: May 17th - 18:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
-| :--------------:|:--------------:|:-------------:| :---------:| :---------:|
+| :-------:|:--------------:|:-------------:| :---------:| :---------:|
 | Germany |   176.369     |   154.011        | 7.958  | Johns Hopkins U. |
 | Bavaria |    	45.777	    |      40.060	    | 2.297 |   Johns Hopkins U. |
 
