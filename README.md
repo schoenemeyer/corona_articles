@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - May 17th - 18:00 CEST
+## Live Repository of latest Corona Studies - updated daily - May 22nd - 18:00 CEST
 
 Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
@@ -12,11 +12,11 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 
 
-## Status: May 17th - 18:00 CEST
+## Status: May 22nd - 18:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |   176.369     |   154.011     | 7.958  | Johns Hopkins U. |
-| Bavaria |    	45.777	    |      40.060	    | 2.297 |   Johns Hopkins U. |
+| Germany |   179.278     |   159.064     | 8.228  | Johns Hopkins U. |
+| Bavaria |    	46.318	    |      41.340	    | 2.372 |   Johns Hopkins U. |
 
 
 ## Donate your DL experience 
