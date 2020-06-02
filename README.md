@@ -2,7 +2,7 @@
 
 ### The COVID-19 High Performance Computing Consortium
 https://covid19-hpc-consortium.org/   
-
+Bringing together the Federal government, industry, and academic leaders to provide access to the world’s most powerful high-performance computing resources in support of COVID-19 research      
 
 ### Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
