@@ -12,10 +12,11 @@ http://www.91-divoc.com/pages/covid-visualization/
 https://www.intensivregister.de/#/intensivregister      
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
-Divided into four main areas and food for thoughts .....
-Will keep this updated daily
+### New Clara Features to help COVID-19 Research
+Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is the application level package of NVIDIA’s Clara Train SDK, a python-based SDK that allows developers looking into faster implementation of industry specific Deep Learning solutions to leverage optimized, ready-to-use, pretrained models built in-house by NVIDIA. These pre-trained models are packaged as Medical Model Archives (MMARs) to accelerate the developer’s deep learning training process and reduce higher costs associated with large scale data collection, labeling, and training models from scratch. 
+A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
-
+   
 ## Status: June 2nd - 08:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
