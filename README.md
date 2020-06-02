@@ -1,10 +1,14 @@
-## Live Repository of latest Corona Studies - updated daily - May 31 - 20:00 CEST
+## Live Repository of latest Corona Studies - updated daily - June 2nd - 08:00 CEST
 
-Current growth rate:         
+### The COVID-19 High Performance Computing Consortium
+https://covid19-hpc-consortium.org/   
+
+
+### Current growth rate:         
 http://www.91-divoc.com/pages/covid-visualization/
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/johns-hopkins-growth.PNG" width="580"> <img>
   
-## Live Status of ICU capacity in Germany - >1000 ICUs are registered        
+### Live Status of ICU capacity in Germany - >1000 ICUs are registered        
 https://www.intensivregister.de/#/intensivregister      
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
@@ -12,11 +16,11 @@ Divided into four main areas and food for thoughts .....
 Will keep this updated daily
 
 
-## Status: May 31st- 20:00 CEST
+## Status: June 2nd - 08:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |   183.410     |   165.352    | 8.540 | Johns Hopkins U. |
-| Bavaria |    	47.178		    |      	42.920	    | 2.466  |   Johns Hopkins U. |
+| Germany |   183.594     |   165.632   | 8.555 | Johns Hopkins U. |
+| Bavaria |    	47.269		    |      	42.920		    | 2.468  |   Johns Hopkins U. |
 
 
 ## Donate your DL experience 
