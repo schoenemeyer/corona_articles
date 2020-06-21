@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - June 18th - 10:00 CEST
+## Live Repository of latest Corona Studies - updated daily - June 21st - 08:00 CEST
 
 ### The COVID-19 High Performance Computing Consortium
 https://covid19-hpc-consortium.org/   
@@ -17,11 +17,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: June 18th - 10:00 CEST
+## Status: June 21st - 08:00 CEST
 | Region  |  Confirmed Cases  |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  188.604     |   173.799   | 8.868 | Johns Hopkins U. |
-| Bavaria |    47.747		   |    	44.500	  | 2.556	 |   Johns Hopkins U. |
+| Germany |  190.670     |   174.609   | 8.895 | Johns Hopkins U. |
+| Bavaria |    47.827		   |    	44.600	  | 2.566	 |   Johns Hopkins U. |
 
 
 ## Donate your DL experience 
