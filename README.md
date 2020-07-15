@@ -62,7 +62,6 @@ Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth ra
 
 ## 3. Treatment
 ## NIH  collection of clinical trials   
-## Status March 22 2020 
 
 | Planned Studies |  Recruiting   | Est. Completion not before      |
 | :--------------:|:-------------:| :---------:|
