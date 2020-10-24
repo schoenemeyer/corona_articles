@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - October 22th - 19:00 CEST
+## Live Repository of latest Corona Studies - updated daily - October 23th - 19:00 CEST
 
 https://public.flourish.studio/visualisation/2645529/
 
@@ -19,11 +19,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: October 22th - 19:00 CEST
+## Status: October 23th - 19:00 CEST
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  402.937  + 11.265 |   304.550  | 9.912 | Johns Hopkins U. |
-| Bavaria |   84.398			  |  	69.028				 | 2.729	|  Johns Hopkins U. |
+| Germany |  426.110  + 14.579 |   311.200  | 10.008 | Johns Hopkins U. |
+| Bavaria |   88.319			  |  	70.205				 | 2.740	|  Johns Hopkins U. |
 
 
 ## Donate your DL experience 
