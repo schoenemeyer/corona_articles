@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - October 27th - 19:00 CEST
+## Live Repository of latest Corona Studies - updated daily - October 28th - 19:00 CEST
 
 https://public.flourish.studio/visualisation/2645529/
 
@@ -22,8 +22,8 @@ A pre-trained model for volumetric (3D) segmentation of lung region from CT imag
 ## Status: October 27th - 19:00 CEST
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  463.287  + 11.608 |   325.650  | 10.121 | Johns Hopkins U. |
-| Bavaria |   93.786				  |  	72.312			 | 2.756	|  Johns Hopkins U. |
+| Germany |  479.265  + 14.798 |   332.750 | 10.218 | Johns Hopkins U. |
+| Bavaria |  96.420					  |  	83.746			 | 2.772		|  Johns Hopkins U. |
 
 
 ## Donate your DL experience 
