@@ -1,4 +1,6 @@
 ## Live Repository of latest Corona Studies - updated daily - November 11th - 19:00 CEST
+Lilly's neutralizing antibody bamlanivimab (LY-CoV555) receives FDA emergency use authorization for the treatment of recently diagnosed COVID-19
+https://www.aerzteblatt.de/nachrichten/118232/COVID-19-Erste-Antikoerperbehandlung-erhaelt-Notfallzulassung-in-den-USA?rt=a70f201674ed7cc043d1bd1f19201da2
 
 https://public.flourish.studio/visualisation/2645529/
 
