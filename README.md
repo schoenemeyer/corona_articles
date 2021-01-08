@@ -21,11 +21,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January 7th 2021 - 19:00 CEST
+## Status: January 8th 2021 - 19:00 CEST
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  1.867.679  + 26.587 | 1.499.400 | 38.247 | Johns Hopkins U. |
-| Bavaria |  344.668				+ 3.495		 |  282.233			| 7.500		| Johns Hopkins U. |
+| Germany |  1.893.377  + 30.568 | 1.518.950 | 39.487 | Johns Hopkins U. |
+| Bavaria |  348.331		+ 5.862	 |  285.886			| 7.664		| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
