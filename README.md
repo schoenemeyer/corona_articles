@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - January 24th 2021 - 19:00 CEST
+## Live Repository of latest Corona Studies - updated daily - January 31st 2021 - 19:00 CEST
 Lilly's neutralizing antibody bamlanivimab (LY-CoV555) receives FDA emergency use authorization for the treatment of recently diagnosed COVID-19
 https://www.aerzteblatt.de/nachrichten/118232/COVID-19-Erste-Antikoerperbehandlung-erhaelt-Notfallzulassung-in-den-USA?rt=a70f201674ed7cc043d1bd1f19201da2
 
@@ -21,11 +21,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January January 24th 2021 - 19:00 CEST
+## Status: January January 31st 2021 - 19:00 CEST
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  2.147.288  + 12.706 | 1.828.100 | 52.154 | Johns Hopkins U. |
-| Bavaria |  389.998		+ 2.134		 |  337.535	| 9.647		| Johns Hopkins U. |
+| Germany |  2.225.498  + 10.945 | 1.939.900 | 57.163 | Johns Hopkins U. |
+| Bavaria |  402.304		+ 1.666	 |  356.201| 10.385		| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
@@ -61,28 +61,8 @@ Summary: SARS-CoV-2 is detectable for a similar amount of time like under air an
 (2) March 17th: "A serological assay to detect SARS-CoV-2 seroconversion in humans"     https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1     
 Summary: Detection of SARS-CoV-2 antibodies would help in reducing the growth rate of CV patients, because the current PCR only shows active infections. 
 
-## 3. Treatment
-## NIH  collection of clinical trials   
 
-| Planned Studies |  Recruiting   | Est. Completion not before      |
-| :--------------:|:-------------:| :---------:|
-|         3       | yes           | Dec 2020   |
-| 2               | not yet       | Dec 2020   |
-| 12              | completed     |            |
-
-https://clinicaltrials.gov/ct2/results?cond=corona&term=&cntry=&state=&city=&dist=
-
-(1) March 18th: "A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19" https://www.nejm.org/doi/full/10.1056/NEJMoa2001282        
-Summary: Patients assigned to lopinavir–ritonavir did not show clinical improvement different from that of patients assigned to standard care alone in the intention-to-treat population
-
-(2) February 4th: "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro" https://www.sciencedirect.com/science/article/pii/S0006291X0401839X         
-Summary: Remdesivir and Chloroquine inhibited virus infection efficiently in a human cell line 
-
-(3) March: "COVID-19 Drug Therapy – Potential Options",  https://www.elsevier.com/__data/assets/pdf_file/0007/988648/COVID-19-Drug-Therapy_Mar-2020.pdf     
-Summary: in absence of an established treatment regimen,(CPAM) issued a novel 2019 coronavirus
-disease (COVID-19) guideline in February 2020 with recommendations
-
-## 4. Hospital Capacity Planning
+## 3. Hospital Capacity Planning
 
 (1) March 14: "Announcing CHIME, A tool for COVID-19 capacity planning"    
 http://predictivehealthcare.pennmedicine.org/2020/03/14/accouncing-chime.html      
@@ -90,7 +70,7 @@ Summary: Informed estimates of how many patients will need hospitalization, ICU 
 ### Go directly to the calculator  https://penn-chime.phl.io/
 code can also be downloaded from https://github.com/pennsignals/chime
 
-## 5. Origin of Corona Virus
+## 4. Origin of Corona Virus
 
 (1) March 17th: "The proximal origin of SARS-CoV-2" https://www.nature.com/articles/s41591-020-0820-9.pdf      
 Summary: Discussion on the origin of the causative virus, based on a comparative analysis of genomic data. Their analyses clearly shows that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
