@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - February 10th 2021 - 19:00 CEST
+## Live Repository of latest Corona Studies - updated daily - February 10th 2021 - 19:00 CET
 Lilly's neutralizing antibody bamlanivimab (LY-CoV555) receives FDA emergency use authorization for the treatment of recently diagnosed COVID-19
 https://www.aerzteblatt.de/nachrichten/118232/COVID-19-Erste-Antikoerperbehandlung-erhaelt-Notfallzulassung-in-den-USA?rt=a70f201674ed7cc043d1bd1f19201da2
 
@@ -21,7 +21,7 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January February 10th 2021 - 19:00 CEST
+## Status: January February 10th 2021 - 19:00 CET
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
 | Germany |  2.309.203  + 8.321 | 2.083.950 | 63.156 | Johns Hopkins U. |
