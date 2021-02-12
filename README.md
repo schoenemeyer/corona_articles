@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - February 10th 2021 - 19:00 CET
+## Live Repository of latest Corona Studies - updated daily - February 12th 2021 - 19:00 CET
 Lilly's neutralizing antibody bamlanivimab (LY-CoV555) receives FDA emergency use authorization for the treatment of recently diagnosed COVID-19
 https://www.aerzteblatt.de/nachrichten/118232/COVID-19-Erste-Antikoerperbehandlung-erhaelt-Notfallzulassung-in-den-USA?rt=a70f201674ed7cc043d1bd1f19201da2
 
@@ -12,7 +12,7 @@ Bringing together the Federal government, industry, and academic leaders to prov
 http://www.91-divoc.com/pages/covid-visualization/
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/johns-hopkins-growth.PNG" width="580"> <img>
   
-### Live Status of ICU capacity in Germany - >1000 ICUs are registered        
+### Live Status of ICU capacity in Germany        
 https://www.intensivregister.de/#/intensivregister      
 <img src="https://github.com/schoenemeyer/corona_articles/blob/master/figures/icu-register.JPG" width="580"> <img>
 
@@ -21,11 +21,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January February 10th 2021 - 19:00 CET
+## Status: January February 12th 2021 - 19:00 CET
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  2.309.203  + 8.321 | 2.083.950 | 63.156 | Johns Hopkins U. |
-| Bavaria |  415.532		+ 1.178	|  379.190| 11.374		| Johns Hopkins U. |
+| Germany |  2.329.780  + 9.842 | 2.111.050 | 64.387 | Johns Hopkins U. |
+| Bavaria |  418.492		+ 1.671	|  383.369| 11.549		| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
