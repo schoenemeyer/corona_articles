@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - February 19th 2021 - 19:00 CET
+## Live Repository of latest Corona Studies - updated daily - March 7th 2021 - 19:00 CET
 Lilly's neutralizing antibody bamlanivimab (LY-CoV555) receives FDA emergency use authorization for the treatment of recently diagnosed COVID-19
 https://www.aerzteblatt.de/nachrichten/118232/COVID-19-Erste-Antikoerperbehandlung-erhaelt-Notfallzulassung-in-den-USA?rt=a70f201674ed7cc043d1bd1f19201da2
 
@@ -21,11 +21,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January February 27th 2021 - 09:00 CET
+## Status: January March 7th 2021 - 19:00 CET
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  2.436.506  + 9.558 | 2.247.150 | 69.939 | Johns Hopkins U. |
-| Bavaria |  435.229		+ 1.421		|  405.108| 12.363		| Johns Hopkins U. |
+| Germany |  2.508.321  + 8.130 | 2.308.450 | 71.953 | Johns Hopkins U. |
+| Bavaria |  446.402		+ 1.227			|  414.151| 12.635		| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
