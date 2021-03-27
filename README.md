@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - March 20th 2021 - 19:00 CET
+## Live Repository of latest Corona Studies - updated daily - March 27th 2021 - 19:00 CET
 
 ### The COVID-19 High Performance Computing Consortium
 https://covid19-hpc-consortium.org/   
@@ -20,8 +20,8 @@ A pre-trained model for volumetric (3D) segmentation of lung region from CT imag
 ## Status: January March 20th 2021 - 19:00 CET
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  2.657.596  + 16.147 | 2.414.200 | 74.657 | Johns Hopkins U. |
-| Bavaria |  470.349			+ 2.328		| 431.272 | 12.967		| Johns Hopkins U. |
+| Germany |  2.770.214  + 20.425 | 2.482.950 | 75.858 | Johns Hopkins U. |
+| Bavaria |  488.067			+ 3.457			| 442.133	 | 13.134	| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
