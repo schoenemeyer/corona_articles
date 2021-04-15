@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - April 10th 2021 - 19:00 CET
+## Live Repository of latest Corona Studies - updated daily - April 15th 2021 - 19:00 CET
 
 ### The COVID-19 High Performance Computing Consortium
 https://covid19-hpc-consortium.org/   
@@ -17,11 +17,11 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: January April 10th 2021 - 19:00 CET
+## Status: January April 15th 2021 - 19:00 CET
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  2.996.307  + 24.118 | 2.669.000 | 78.330 | Johns Hopkins U. |
-| Bavaria | 525.913			+ 3.853		| 472.500	 | 13.484	| Johns Hopkins U. |
+| Germany |  3.095.008  + 29.254 | 2.747.000 | 79.520 | Johns Hopkins U. |
+| Bavaria | 542.454			+ 5.098		| 485.100	 | 13.660	| Johns Hopkins U. |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
