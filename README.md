@@ -1,4 +1,4 @@
-## Live Repository of latest Corona Studies - updated daily - February 13th 2022 - 09:00 CEST
+## Live Repository of latest Corona Studies - updated daily - May 29th 2022 - 19:00 CEST
 
 ### The COVID-19 High Performance Computing Consortium
 https://covid19-hpc-consortium.org/   
@@ -17,12 +17,12 @@ Clara Training Framework https://developer.nvidia.com/clara-medical-imaging  is 
 A pre-trained model for volumetric (3D) segmentation of lung region from CT image is available here: https://ngc.nvidia.com/catalog/models/nvidia:med:clara_train_covid19_ct_lung_seg        
 
    
-## Status: Dezember 13th 2022 - 09:00 CEST
+## Status: May 29th 2022 - 19:00 CEST
 
 | Region  |  Confirmed Cases + day before |   Healed   | Confirmed Deaths     |  Source | 
 | :-------:|:--------------:|:-------------:| :---------:| :---------:|
-| Germany |  12.344.704  +125.880 | 8.737.000 | 119.939 | RKI |
-| Bavaria | 2.258.682		 + 25.768		 | 1.626.000		 | 20.846		| RKI |
+| Germany |  26.243.560  +2.713 | 25.140.000 | 138.875 | RKI |
+| Bavaria | 4.883.787		 + 1		 | 4.702.700		 | 24.033		| RKI |
 
 ## Donate your DL experience 
 Set Up of European Registry for Coronavirus Patients by DZIF, the German Center for Infection Research          
